@@ -25,7 +25,7 @@
 - 基于ELF对加载器和编译器、编译参数等方面进行修改，例如通过-fPIC实现位置无关
 
 ## 所属赛道
-2024全国大学生操作系统比赛的“OS功能挑战”赛道
+2025全国大学生操作系统比赛的“OS功能挑战”赛道
 
 ## 指导专家介绍及联系方式
 - 黄齐，Bytecode Alliance RC / WAMR TSC Member , huangqi3@xiaomi.com
